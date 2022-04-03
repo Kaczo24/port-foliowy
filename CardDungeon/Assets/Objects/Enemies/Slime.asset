@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 348ede5eaf7d0374ab4ea96ccd6c2fd3, type: 3}
+  m_Name: Slime
+  m_EditorClassIdentifier: 
+  stats:
+    HPmax: 10
+    hp: 20
+    block: 0
+    cardDraw: 1
+    effects: []
+    cards:
+    - {fileID: 11400000, guid: fd1a1965c8d294a43874256ce2e52c9e, type: 2}
+    - {fileID: 11400000, guid: 054a8f2260a78204d9219d70dbb235f0, type: 2}
+  texture: {fileID: 0}
+  specialAI: '% 80 0
+
+    0 > 1
+
+    0 > 1'
+  chances: []

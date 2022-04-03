@@ -1,0 +1,5 @@
+c:\users\mateusz\documents\visual studio 2017\Projects\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\BasicNeuralNetwork.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\BasicNeuralNetwork\BasicNeuralNetwork\bin\Debug\BasicNeuralNetwork.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2017\Projects\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\BasicNeuralNetwork\BasicNeuralNetwork\obj\Debug\BasicNeuralNetwork.pdb

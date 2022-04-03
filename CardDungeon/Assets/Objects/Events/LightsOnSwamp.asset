@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93a8828b6d7014f4cbe0f354ce14586d, type: 3}
+  m_Name: LightsOnSwamp
+  m_EditorClassIdentifier: 
+  dialog:
+    texts:
+    - i1
+    - i2
+    options:
+    - text: Try to follow the light.
+      outcomes:
+      - dialog:
+          texts:
+          - You follow one of the ligths, but they quickly disapear. You find yourself
+            lost and stuck ni the mud. Then, roots of nearby trees start moving towards
+            you! They are covered in spikes and are able to cut you, before your weapone
+            strikes. Roots slowly go back and with them fog, revealing the way out.
+          options:
+          - text: Stay away from swamp.
+            outcomes: []
+            moneyR: 0
+            hpR: 0
+        deathMessage: You follow one of the ligths, but they quickly disapear. You
+          find yourself lost and stuck ni the mud. Then, roots of nearby trees start
+          moving towards you! They are covered in spikes and are able to cut you,
+          before your weapone strikes. Covered in blood from your woonds, yuor consciousness
+          fades away.
+        Dhp: -12
+        Dmoney: 0
+        cardPool: {fileID: 0}
+        enemyFigth: {fileID: 11400000, guid: 6ff932e662ab42b4da0400ea40d9c387, type: 2}
+      moneyR: 0
+      hpR: 0
+    - text: Ignore it. Its an obvious trap.
+      outcomes: []
+      moneyR: 0
+      hpR: 0
+  image: {fileID: 0}

@@ -1,0 +1,11 @@
+c:\users\mateusz\documents\visual studio 2017\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\bin\Debug\ConsolGraphicsEngine.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\bin\Debug\ConsolGraphicsEngine.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2017\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\bin\Debug\ConsolGraphicsEngine.dll
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\bin\Debug\ConsolGraphicsEngine.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.csprojAssemblyReference.cache
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.dll
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\ConsolGraphicsEngine\ConsolGraphicsEngine\obj\Debug\ConsolGraphicsEngine.pdb

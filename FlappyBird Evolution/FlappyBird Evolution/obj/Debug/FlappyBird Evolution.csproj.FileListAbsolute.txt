@@ -1,0 +1,26 @@
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.exe.config
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.exe
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\ConsolGraphicsEngine.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\Physics2D.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\ConsolGraphicsEngine.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\Physics2D.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.exe
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.pdb
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\BasicNeuralNetwork.dll
+c:\users\mateusz\documents\visual studio 2017\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\BasicNeuralNetwork.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.csprojAssemblyReference.cache
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.exe
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.exe.config
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.exe
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\FlappyBird Evolution.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\BasicNeuralNetwork.dll
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\ConsolGraphicsEngine.dll
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\Physics2D.dll
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\BasicNeuralNetwork.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\ConsolGraphicsEngine.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\bin\Debug\Physics2D.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2019\Projects\FlappyBird Evolution\FlappyBird Evolution\obj\Debug\FlappyBird Evolution.csproj.CopyComplete
